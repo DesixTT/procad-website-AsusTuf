@@ -41,21 +41,21 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-primary" />
-                <span>(0256) 430 856, (0356) 437 098</span>
+                <span>(0256) 430 856</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-primary" />
                 <span>
                   <a
-                    href="mailto:procadtm@gmail.com"
+                    href="mailto:office@procad.ro"
                     className="hover:text-primary transition-colors"
                   >
-                    procadtm@gmail.com
+                    office@procad.ro
                   </a>
                 </span>
               </div>
               <div>
-                <span className="font-medium text-gray-600">Orar:</span> Luni - Vineri: 9 - 17
+                <span className="font-medium text-gray-600">Orar:</span> Luni - Joi: 8:00 - 17:00, Vineri: 8:00 - 15:00
               </div>
               <div>
                 <span className="font-medium text-gray-600">Web:</span>{" "}
